@@ -9,5 +9,5 @@ Turning lemonade into lemons since 2004
 
 ### Contacts
 
-- [Email](Utkarsh.thanvi@gmail.com)
+- <a href=mailto:Utkarsh.thanvi@gmail.com>Email</a>
 - [Fiverr](https://www.fiverr.com/utshaan?public_mode=true)
