@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utshaan</h1>
+<h1 align="center">Utshaan</h1>
 <h3 align="center">Turning lemonade into lemons since 2004</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utshaan&label=Profile%20views&color=0e75b6&style=flat" alt="utshaan" /> </p>
