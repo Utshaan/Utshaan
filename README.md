@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utshaan" alt="utshaan" /></a> </p>
 
-- 🔭 I’m currently working on [Ludicrum](https://github.com/Utshaan/Ludicrum)
+- 🔭 I’m currently working on [opus](https://github.com/Scallum-Mendacium/opus)
 
-- 🌱 I’m currently learning **Web scrapping**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **Utkarsh.thanvi@gmail.com**
 
