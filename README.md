@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **Utkarsh.thanvi@gmail.com**
+- 📫 How to reach me **omninight.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
