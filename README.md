@@ -1,7 +1,7 @@
 <h1 align="center">Utshaan</h1>
 <h3 align="center">"Turning lemonade into lemons since 2004"</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utshaan" alt="utshaan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
 - 🔭 I’m currently not working
 
