@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utshaan&label=Profile%20views&color=0e75b6&style=flat" alt="utshaan" /> </p>
 
+[![@utshaan's Holopin board](https://holopin.io/api/user/board?user=utshaan)](https://holopin.io/@utshaan)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utshaan" alt="utshaan" /></a> </p>
 
 - 🔭 I’m currently not working
